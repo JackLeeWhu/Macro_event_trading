@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="828pt" viewBox="0 0 864 828" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-14T17:20:53.469618</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Macro Event Trading research presentation</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 828 
+L 864 828 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f8fafb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 227.90592 249.614794 
+Q 227.90592 262.520204 227.90592 273.63676 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 230.50592 268.43676 
+L 227.90592 273.63676 
+L 225.30592 268.43676 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 636.09408 249.614794 
+Q 636.09408 262.520204 636.09408 273.63676 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 638.69408 268.43676 
+L 636.09408 273.63676 
+L 633.49408 268.43676 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 229.850719 407.422952 
+Q 289.777375 421.858573 347.964923 435.875263 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 343.518422 432.129782 
+L 347.964923 435.875263 
+L 342.300637 437.185175 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 634.149281 407.422952 
+Q 574.222625 421.858573 516.035077 435.875263 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 521.699363 437.185175 
+L 516.035077 435.875263 
+L 520.481578 432.129782 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 317.614681 557.727837 
+Q 273.706174 572.795478 231.489669 587.282492 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 237.25204 588.053904 
+L 231.489669 587.282492 
+L 235.564221 583.135442 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 421.143064 645.960436 
+Q 431.999578 645.960436 441.067239 645.960436 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 435.867239 643.360436 
+L 441.067239 645.960436 
+L 435.867239 648.560436 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #879baa; stroke: #879baa; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 55.14912 245.449309 
+L 400.66272 245.449309 
+Q 415.12608 245.449309 415.12608 235.693964 
+L 415.12608 131.094982 
+Q 415.12608 121.339636 400.66272 121.339636 
+L 55.14912 121.339636 
+Q 40.68576 121.339636 40.68576 131.094982 
+L 40.68576 235.693964 
+Q 40.68576 245.449309 55.14912 245.449309 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 463.33728 245.449309 
+L 808.85088 245.449309 
+Q 823.31424 245.449309 823.31424 235.693964 
+L 823.31424 131.094982 
+Q 823.31424 121.339636 808.85088 121.339636 
+L 463.33728 121.339636 
+Q 448.87392 121.339636 448.87392 131.094982 
+L 448.87392 235.693964 
+Q 448.87392 245.449309 463.33728 245.449309 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 55.14912 404.786618 
+L 400.66272 404.786618 
+Q 415.12608 404.786618 415.12608 395.031273 
+L 415.12608 290.432291 
+Q 415.12608 280.676945 400.66272 280.676945 
+L 55.14912 280.676945 
+Q 40.68576 280.676945 40.68576 290.432291 
+L 40.68576 395.031273 
+Q 40.68576 404.786618 55.14912 404.786618 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 463.33728 404.786618 
+L 808.85088 404.786618 
+Q 823.31424 404.786618 823.31424 395.031273 
+L 823.31424 290.432291 
+Q 823.31424 280.676945 808.85088 280.676945 
+L 463.33728 280.676945 
+Q 448.87392 280.676945 448.87392 290.432291 
+L 448.87392 395.031273 
+Q 448.87392 404.786618 463.33728 404.786618 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 167.64192 554.910545 
+L 696.35808 554.910545 
+Q 710.82144 554.910545 710.82144 545.1552 
+L 710.82144 449.7696 
+Q 710.82144 440.014255 696.35808 440.014255 
+L 167.64192 440.014255 
+Q 153.17856 440.014255 153.17856 449.7696 
+L 153.17856 545.1552 
+Q 153.17856 554.910545 167.64192 554.910545 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 55.14912 705.034473 
+L 400.66272 705.034473 
+Q 415.12608 705.034473 415.12608 695.279127 
+L 415.12608 601.519418 
+Q 415.12608 591.764073 400.66272 591.764073 
+L 55.14912 591.764073 
+Q 40.68576 591.764073 40.68576 601.519418 
+L 40.68576 695.279127 
+Q 40.68576 705.034473 55.14912 705.034473 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 463.33728 705.034473 
+L 808.85088 705.034473 
+Q 823.31424 705.034473 823.31424 695.279127 
+L 823.31424 601.519418 
+Q 823.31424 591.764073 808.85088 591.764073 
+L 463.33728 591.764073 
+Q 448.87392 591.764073 448.87392 601.519418 
+L 448.87392 695.279127 
+Q 448.87392 705.034473 463.33728 705.034473 
+z
+" clip-path="url(#p37ab72b1bb)" style="fill: #ffffff; stroke: #dce4e9; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 64.79136 228.106473 
+L 64.79136 138.682473 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #007e87; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="82.4688" y="155.276412" transform="rotate(-0 82.4688 155.276412)">INFORMATION STREAM A</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="82.4688" y="180.536296" transform="rotate(-0 82.4688 180.536296)">High-frequency food prices</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 202.103165)">Smooth component prices; aggregate changes</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 215.96043)">using lagged inverse-volatility weights.</text>
+   </g>
+   <g id="line2d_2">
+    <path d="M 472.97952 228.106473 
+L 472.97952 138.682473 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #bd7139; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #bd7139" x="490.65696" y="155.276412" transform="rotate(-0 490.65696 155.276412)">INFORMATION STREAM B</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="490.65696" y="180.536296" transform="rotate(-0 490.65696 180.536296)">CPI forecasts and realized CPI</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 202.103165)">Align reference months and units;</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 215.96043)">robustly summarize forecast disagreement.</text>
+   </g>
+   <g id="line2d_3">
+    <path d="M 64.79136 387.443782 
+L 64.79136 298.019782 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #007e87; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="82.4688" y="314.613721" transform="rotate(-0 82.4688 314.613721)">STRICTLY BEFORE RELEASE</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="82.4688" y="339.873605" transform="rotate(-0 82.4688 339.873605)">Pre-release movement score</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 361.440474)">Compare adjacent windows of the daily proxy.</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 375.297739)">Interpretation: an estimate of priced-in information.</text>
+   </g>
+   <g id="line2d_4">
+    <path d="M 472.97952 387.443782 
+L 472.97952 298.019782 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #bd7139; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #bd7139" x="490.65696" y="314.613721" transform="rotate(-0 490.65696 314.613721)">AFTER ACTUAL CPI IS RELEASED</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="490.65696" y="339.873605" transform="rotate(-0 490.65696 339.873605)">Survey surprise score</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 361.440474)">Realized CPI relative to forecast consensus,</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 375.297739)">scaled by dispersion and bounded.</text>
+   </g>
+   <g id="line2d_5">
+    <path d="M 177.28416 537.567709 
+L 177.28416 457.357091 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #007e87; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="194.9616" y="473.95103" transform="rotate(-0 194.9616 473.95103)">COMBINE THE INFORMATION</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="194.9616" y="499.210914" transform="rotate(-0 194.9616 499.210914)">Adjusted surprise = survey score − pre-release score</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(194.9616 520.777783)">Negative score: hypothesized support for duration.</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(194.9616 534.635049)">Positive score: hypothesized adverse inflation news.</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 64.79136 687.691636 
+L 64.79136 609.106909 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #007e87; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="82.4688" y="625.700848" transform="rotate(-0 82.4688 625.700848)">PORTFOLIO TRANSLATION</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="82.4688" y="650.960732" transform="rotate(-0 82.4688 650.960732)">Duration overlay + risk filter</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 672.527601)">Baseline 1×; favorable event target 2×;</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(82.4688 686.384867)">return filter can reduce exposure to cash.</text>
+   </g>
+   <g id="line2d_7">
+    <path d="M 472.97952 687.691636 
+L 472.97952 609.106909 
+" clip-path="url(#p37ab72b1bb)" style="fill: none; stroke: #bd7139; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #bd7139" x="490.65696" y="625.700848" transform="rotate(-0 490.65696 625.700848)">HISTORICAL EVALUATION</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="490.65696" y="650.960732" transform="rotate(-0 490.65696 650.960732)">Lagged returns and risk review</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 672.527601)">Bond-index benchmark, wealth and drawdowns;</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #5b6d79" transform="translate(490.65696 686.384867)">attribute contributions and test robustness.</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="47.52" y="36.432" transform="rotate(-0 47.52 36.432)">MACRO EVENT TRADING</text>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="47.52" y="69.552" transform="rotate(-0 47.52 69.552)">From inflation information to duration allocation</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6d79" x="47.52" y="96.048" transform="rotate(-0 47.52 96.048)">A daily economic proxy and a release surprise meet in one event signal.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007e87" x="47.52" y="762.588" transform="rotate(-0 47.52 762.588)">TIMING CHECK</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17334c" x="47.52" y="783.288" transform="rotate(-0 47.52 783.288)">Pre-release proxy → actual CPI announcement → final target → one-record lag in returns</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6d79" x="47.52" y="804.816" transform="rotate(-0 47.52 804.816)">“Priced-in” is a proxy interpretation. Date-level timing and executable fills still require validation.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p37ab72b1bb">
+   <rect x="30.24" y="115.92" width="803.52" height="596.16"/>
+  </clipPath>
+ </defs>
+</svg>

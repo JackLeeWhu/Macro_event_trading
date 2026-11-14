@@ -1,0 +1,13 @@
+__pycache__/
+*.py
+*.pyc
+*.ipynb
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+.env
+.env.*
+data/
+src/
+notebooks/
